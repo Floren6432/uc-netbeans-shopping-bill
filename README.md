@@ -1,6 +1,6 @@
 # uc-netbeans-shopping-bill
 
-A Java Swing-based desktop application developed during my second year of university studies. This project simulates a shopping receipt system for a grocery store, allowing users to input product details (ID, name, quantity, price), add them to a cart table, view the current date and time, and print the final receipt.
+A Java Swing-based desktop application developed during my third year of university studies. This project simulates a shopping receipt system for a grocery store, allowing users to input product details (ID, name, quantity, price), add them to a cart table, view the current date and time, and print the final receipt.
 
 Note:
 This project is developed in Java and designed to be opened and run within the NetBeans IDE.
